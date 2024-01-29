@@ -3,15 +3,11 @@
 clear all
 close all
 
+
 addpath(genpath('\\file.phhp.ufl.edu\data\home\edward.luca\Documents\GitHub\microglia_count_coloc'))
 rootfilefolder=fullfile('C:\Users\edward.luca\Desktop');
-CTBfilefolder=fullfile(rootfilefolder, 'CTBfilefolder');
-listing=dir('C:\Users\edward.luca\Desktop\CTBfilefolder\listing\v2_23360_20x_Sec12\v2_23360_20x_Sec12_Overlay.tif')
-
-% addpath(genpath('\\file.phhp.ufl.edu\data\home\edward.luca\Documents\GitHub\microglia_count_coloc'))
-% rootfilefolder=fullfile('C:\Users\edward.luca\Desktop');
-% CTBfilefolder=fullfile(rootfilefolder, 'Microglia Analysis');
-% listing=dir('C:\Users\edward.luca\Desktop\Microglia Analysis\Data IBA1\944426-2CtBCDFITC&IBA1_01\944426-2CtBCDFITC&IBA1_Overlay.tif')
+CTBfilefolder=fullfile(rootfilefolder, 'Microglia Analysis');
+listing=dir('C:\Users\edward.luca\Desktop\True Binary Data IBA1 Masked\944426-2CtBCDFITC&IBA1_Overlay.png')
 
 % addpath(genpath('H:\MATLAB'))
 % rootfilefolder=fullfile('C:\Users\yasinbseven\Desktop');
