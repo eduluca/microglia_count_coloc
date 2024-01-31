@@ -19,7 +19,7 @@ listing=dir('C:\Users\edward.luca\Desktop\CTBfilefolder\listing\v2_23360_20x_Sec
 % listing=dir('C:\Users\yasinbseven\Desktop\Data\**\*Overlay*.tif')
 
 %New image size 960 x 720 = 691200, 20x
-%Binning: 2x2 binning, so 0.37744 x 2 = 0.75488
+%Binning: 2x2 binning, so 0.37744
 
 resolution=0.75488; %microns/pixel
 r=35; %radius in microns
