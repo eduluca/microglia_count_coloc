@@ -1,18 +1,25 @@
-% MicrogliaAnalysisforNano-justforimagefilegenerationwidxnumbers
+% MicrogliaAnalysisCY5
 
 clear all
 close all
 
-
 addpath(genpath('\\file.phhp.ufl.edu\data\home\edward.luca\Documents\GitHub\microglia_count_coloc'))
 rootfilefolder=fullfile('C:\Users\edward.luca\Desktop');
-CTBfilefolder=fullfile(rootfilefolder, 'Microglia Analysis');
-listing=dir('C:\Users\edward.luca\Desktop\True Binary Data IBA1 Masked\944426-2CtBCDFITC&IBA1_Overlay.png')
+CTBfilefolder=fullfile(rootfilefolder, 'CTBfilefolder');
+listing=dir('C:\Users\edward.luca\Desktop\CTBfilefolder\listing\v2_23360_20x_Sec12\v2_23360_20x_Sec12_Overlay.tif')
+
+% addpath(genpath('\\file.phhp.ufl.edu\data\home\edward.luca\Documents\GitHub\microglia_count_coloc'))
+% rootfilefolder=fullfile('C:\Users\edward.luca\Desktop');
+% CTBfilefolder=fullfile(rootfilefolder, 'Microglia Analysis');
+% listing=dir('C:\Users\edward.luca\Desktop\Microglia Analysis\Data IBA1\944426-2CtBCDFITC&IBA1_01\944426-2CtBCDFITC&IBA1_Overlay.tif')
 
 % addpath(genpath('H:\MATLAB'))
 % rootfilefolder=fullfile('C:\Users\yasinbseven\Desktop');
 % CTBfilefolder=fullfile(rootfilefolder, 'Data');
 % listing=dir('C:\Users\yasinbseven\Desktop\Data\**\*Overlay*.tif')
+
+%New image size 960 x 720 = 691200
+%Binning: 2x2 binning
 
 resolution=0.37744; %microns/pixel
 r=35; %radius in microns
