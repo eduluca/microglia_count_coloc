@@ -1,0 +1,164 @@
+SD_3397 MICROGLIA COUNTS
+
+3 of 83 done.
+Total cells for 23630_20x_Sec10_Overlay.tif: 6
+4 of 83 done.
+Total cells for 23630_20x_Sec13_Overlay.tif: 0
+5 of 83 done.
+Total cells for 23630_20x_Sec14_Overlay.tif: 9
+6 of 83 done.
+Total cells for 23630_20x_Sec16_Overlay.tif: 4
+7 of 83 done.
+Total cells for 23630_20x_Sec17_Overlay.tif: 2
+8 of 83 done.
+Total cells for 23630_20x_Sec18_Overlay.tif: 11
+9 of 83 done.
+Total cells for 23630_20x_Sec19_Overlay.tif: 5
+10 of 83 done.
+Total cells for 23630_20x_Sec20_Overlay.tif: 9
+11 of 83 done.
+Total cells for 23630_20x_Sec22_Overlay.tif: 2
+12 of 83 done.
+Total cells for 23630_20x_Sec2_Overlay.tif: 3
+13 of 83 done.
+Total cells for 23630_20x_Sec7_L_Overlay.tif: 0
+14 of 83 done.
+Total cells for 23630_20x_Sec8_L_Overlay.tif: 3
+15 of 83 done.
+Total cells for 23630_20x_Sec9_L_Overlay.tif: 9
+16 of 83 done.
+Total cells for 23630_Sec2_20x_L_Overlay.tif: 5
+17 of 83 done.
+Total cells for 23631_Sec10_20x_L_Overlay.tif: 5
+18 of 83 done.
+Total cells for 23631_Sec10_20x_R_Overlay.tif: 7
+19 of 83 done.
+Total cells for 23631_Sec11_20x_L_Overlay.tif: 8
+20 of 83 done.
+Total cells for 23631_Sec12_20x_L_Overlay.tif: 2
+21 of 83 done.
+Total cells for 23631_Sec13_20x_R_Overlay.tif: 3
+22 of 83 done.
+Total cells for 23631_Sec14_20x_R_Overlay.tif: 28
+23 of 83 done.
+Total cells for 23631_Sec15_20x_L_Overlay.tif: 5
+24 of 83 done.
+Total cells for 23631_Sec15_20x_R_Overlay.tif: 2
+25 of 83 done.
+Total cells for 23631_Sec3_20x_L_Overlay.tif: 16
+26 of 83 done.
+Total cells for 23631_Sec4_20x_L_Overlay.tif: 12
+27 of 83 done.
+Total cells for 23631_Sec5_20x_L_Overlay.tif: 3
+28 of 83 done.
+Total cells for 23631_Sec5_20x_R_Overlay.tif: 8
+29 of 83 done.
+Total cells for 23631_Sec6_20x_L_Overlay.tif: 19
+30 of 83 done.
+Total cells for 23631_Sec8_20x_L_Overlay.tif: 3
+31 of 83 done.
+Total cells for 23631_Sec8_20x_R_Overlay.tif: 4
+32 of 83 done.
+Total cells for 23631_Sec9_20x_L_Overlay.tif: 6
+33 of 83 done.
+Total cells for 23631_Sec9_20x_R_Overlay.tif: 6
+34 of 83 done.
+Total cells for 23646_20x_Sec10_L_Overlay.tif: 2
+35 of 83 done.
+Total cells for 23646_20x_Sec10_R_Overlay.tif: 1
+36 of 83 done.
+Total cells for 23646_20x_Sec12_R_Overlay.tif: 0
+37 of 83 done.
+Total cells for 23646_20x_Sec13_L_Overlay.tif: 4
+38 of 83 done.
+Total cells for 23646_20x_Sec13_R_Overlay.tif: 1
+39 of 83 done.
+Total cells for 23646_20x_Sec14_L_Overlay.tif: 0
+40 of 83 done.
+Total cells for 23646_20x_Sec1_R_Overlay.tif: 2
+41 of 83 done.
+Total cells for 23646_20x_Sec4_L_Overlay.tif: 0
+42 of 83 done.
+Total cells for 23646_20x_Sec5_R_Overlay.tif: 0
+43 of 83 done.
+Total cells for 23646_20x_Sec6_L_Overlay.tif: 2
+44 of 83 done.
+Total cells for 23647_20x_Sec10_L_Overlay.tif: 3
+45 of 83 done.
+Total cells for 23647_20x_Sec11_R_Overlay.tif: 8
+46 of 83 done.
+Total cells for 23647_20x_Sec13_R_Overlay.tif: 19
+47 of 83 done.
+Total cells for 23647_20x_Sec15_L_Overlay.tif: 5
+48 of 83 done.
+Total cells for 23647_20x_Sec15_R_Overlay.tif: 12
+49 of 83 done.
+Total cells for 23647_20x_Sec1_L_Overlay.tif: 0
+50 of 83 done.
+Total cells for 23647_20x_Sec1_R_Overlay.tif: 16
+51 of 83 done.
+Total cells for 23647_20x_Sec2_L_Overlay.tif: 13
+52 of 83 done.
+Total cells for 23647_20x_Sec2_R_Overlay.tif: 6
+53 of 83 done.
+Total cells for 23647_20x_Sec3_L_Overlay.tif: 9
+54 of 83 done.
+Total cells for 23647_20x_Sec4_L_Overlay.tif: 22
+55 of 83 done.
+Total cells for 23647_20x_Sec5_R_Overlay.tif: 11
+56 of 83 done.
+Total cells for 23647_20x_Sec6_R_Overlay.tif: 9
+57 of 83 done.
+Total cells for 23647_20x_Sec7_L_Overlay.tif: 12
+58 of 83 done.
+Total cells for 23647_20x_Sec7_R_Overlay.tif: 4
+59 of 83 done.
+Total cells for 23647_20x_Sec8_L_Overlay.tif: 15
+60 of 83 done.
+Total cells for 23647_20x_Sec9_L_Overlay.tif: 10
+61 of 83 done.
+Total cells for 23650_20x_Sec11_L_Overlay.tif: 19
+62 of 83 done.
+Total cells for 23650_20x_Sec12_L_Overlay.tif: 18
+63 of 83 done.
+Total cells for 23650_20x_Sec12_R_Overlay.tif: 35
+64 of 83 done.
+Total cells for 23650_20x_Sec16_R_Overlay.tif: 37
+65 of 83 done.
+Total cells for 23650_20x_Sec1_R_Overlay.tif: 11
+66 of 83 done.
+Total cells for 23650_20x_Sec1_R_Z001_Overlay.tif: 0
+67 of 83 done.
+Total cells for 23650_20x_Sec2_R_Overlay.tif: 16
+68 of 83 done.
+Total cells for 23650_20x_Sec3_R_Overlay.tif: 22
+69 of 83 done.
+Total cells for 23650_20x_Sec4_R_Overlay.tif: 18
+70 of 83 done.
+Total cells for 23650_20x_Sec5_R_Overlay.tif: 14
+71 of 83 done.
+Total cells for 23650_20x_Sec6_R_Overlay.tif: 15
+72 of 83 done.
+Total cells for 23650_20x_Sec7_R_Overlay.tif: 17
+73 of 83 done.
+Total cells for 23650_20x_Sec8_L_Overlay.tif: 12
+74 of 83 done.
+Total cells for 23651_20x_Sec10_L_Overlay.tif: 18
+75 of 83 done.
+Total cells for 23651_20x_Sec11_R_Overlay.tif: 8
+76 of 83 done.
+Total cells for 23651_20x_Sec12_R_Overlay.tif: 7
+77 of 83 done.
+Total cells for 23651_20x_Sec1_R_Overlay.tif: 8
+78 of 83 done.
+Total cells for 23651_20x_Sec2_R_Overlay.tif: 3
+79 of 83 done.
+Total cells for 23651_20x_Sec4_L_Overlay.tif: 4
+80 of 83 done.
+Total cells for 23651_20x_Sec4_R_Overlay.tif: 15
+81 of 83 done.
+Total cells for 23651_20x_Sec5_Overlay.tif: 0
+82 of 83 done.
+Total cells for 23651_20x_Sec6_L_Overlay.tif: 11
+83 of 83 done.
+Total cells for 23651_Sec1_20x_Overlay.tif: 19
