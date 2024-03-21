@@ -59,23 +59,22 @@ currentimage=imread(fullfile(folders{iii},files{iii}));
 a=currentimage;
 
 %% Changing from red to green 
-%Contrasttemp = medfilt2(a(:,:,1),[100 100]);
-%a(:,:,1)=a(:,:,1)-Contrasttemp;
+Contrasttemp = medfilt2(a(:,:,1),[100 100]);
+a(:,:,1)=a(:,:,1)-Contrasttemp;
 
 Contrasttemp2 = medfilt2(a(:,:,2),[100 100]);
 a(:,:,2)=a(:,:,2)-Contrasttemp2;
 
-perfilGREEN=a;
-%perkfiltRED=a;
+perkfiltGREEN=a;
 
 %% Setting threshold
-[d1,d2]=size(a(:,:,2));
-zvector=reshape(a(:,:,2),d1*d2,1);
+[d1,d2]=size(a(:,:,1));
+zvector=reshape(a(:,:,1),d1*d2,1);
 y = prctile(zvector,threshold_percentile); %%%%%%%%%%%% CTB Threshold
 ctb_threshold = im2double(y);
 
 % We have a threshold
-[r]=selectcells(a(:,:,1), ctb_threshold, cell_size);
+[r]=selectcells(a(:,:,2), ctb_threshold, cell_size); %changed cell selection to identify green not red
 
 xystruct=[];
 

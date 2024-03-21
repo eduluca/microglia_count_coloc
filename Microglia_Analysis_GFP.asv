@@ -5,7 +5,7 @@ close all
 
 addpath(genpath('\\file.phhp.ufl.edu\data\home\edward.luca\Documents\GitHub\microglia_count_coloc'))
 rootfilefolder=fullfile('C:\Users\edward.luca\Desktop');
-CTBfilefolder=fullfile(rootfilefolder, 'CTBfilefolder');
+CTBfilefolder=fullfile(rootfilefolder, 'CTBfilefolder_Green');
 listing=dir('C:\Users\edward.luca\Github\microglia_count_coloc\Green_Microglia_overlay\Iba-1_APOE4_R22_92_sect3_20x_2_Overlay.tif')
 
 % addpath(genpath('\\file.phhp.ufl.edu\data\home\edward.luca\Documents\GitHub\microglia_count_coloc'))
@@ -58,6 +58,7 @@ currentimage=imread(fullfile(folders{iii},files{iii}));
 % currentimage=imread(fullfile('C:\Users\yasinbseven\Desktop\Data',files{iii}));
 a=currentimage;
 
+%% Changing from red to green 
 Contrasttemp = medfilt2(a(:,:,1),[100 100]);
 a(:,:,1)=a(:,:,1)-Contrasttemp;
 
@@ -66,13 +67,14 @@ a(:,:,2)=a(:,:,2)-Contrasttemp2;
 
 perkfiltRED=a;
 
-[d1,d2]=size(a(:,:,2));
-zvector=reshape(a(:,:,2),d1*d2,1);
+%% Setting threshold
+[d1,d2]=size(a(:,:,1));
+zvector=reshape(a(:,:,1),d1*d2,1);
 y = prctile(zvector,threshold_percentile); %%%%%%%%%%%% CTB Threshold
 ctb_threshold = im2double(y);
 
 % We have a threshold
-[r]=selectcells(a(:,:,1), ctb_threshold, cell_size);
+[r]=selectcells(a(:,:,2), ctb_threshold, cell_size);
 
 xystruct=[];
 
